@@ -2,10 +2,7 @@
 
 **This Is a Trick With Flex!Thank You For Watching😊**
 
-![1](https://github.com/fatemeMohamadian/Project2-Template1-Flex/assets/155579918/1a990217-eea2-42f1-a9d1-0dc83daf084d)
-
-
-![2](https://github.com/fatemeMohamadian/Project2-Template1-Flex/assets/155579918/57989b6e-b1f0-4b72-ac70-7fdd416a51a6)
+![Shot 0030](https://github.com/fatemeMohamadian/Trick2-Flex/assets/155579918/0017b843-8c9b-483c-ae82-69183487590c)
 
 
 👩‍💻😎[Demo Project](https://fatememohamadian.github.io/Trick2-Flex/)
