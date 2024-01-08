@@ -8,7 +8,7 @@
 ![2](https://github.com/fatemeMohamadian/Project2-Template1-Flex/assets/155579918/57989b6e-b1f0-4b72-ac70-7fdd416a51a6)
 
 
-👩‍💻😎[Demo Project](https://fatememohamadian.github.io/Project2-Template1-Flex/)
+👩‍💻😎[Demo Project](https://fatememohamadian.github.io/Trick2-Flex/)
 
  😉Developed by Fatemeh Mohamadian
 
